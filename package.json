@@ -1,0 +1,22 @@
+{
+  "name": "thanos-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot to automate the removal of members",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeamDman/Thanos-Bot.git"
+  },
+  "author": "TeamDman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeamDman/Thanos-Bot/issues"
+  },
+  "homepage": "https://github.com/TeamDman/Thanos-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
